@@ -35,10 +35,12 @@
     font-size: 150px;
 }
 .slider{
+    margin-left: 24%;
     width: 800px;
     height: 500px;
     overflow: hidden;
     display: flex;
+    text-align: center;
     justify-content: center;
     align-items: center;
     background: #23E3C9;
@@ -90,4 +92,9 @@
 }
 #radio4:checked ~ .first{
     margin-left: -60%;
+}
+.container-1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
