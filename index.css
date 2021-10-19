@@ -74,7 +74,7 @@
     margin: 10px;
 }
 .menu-bar ul li:hover .sub-menu-1 ul li{
-    width: 150px;
+    width: 100px;
     padding: 10px;
     border-bottom: 1px dotted #fff;
     background: transparent;
@@ -86,6 +86,15 @@
 }
 .menu-bar ul li:hover .sub-menu-1 ul li a:hover{
     color: #b2ff00;
+}
+.sub-menu-2{
+    display: none;
+}
+.hover-me:hover .sub-menu-2{
+    position: absolute;
+    display: block;
+    margin: -40px 0px 0px 110px;
+    background: rgb(0,100,0);
 }
 
 
