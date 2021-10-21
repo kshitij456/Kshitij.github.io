@@ -39,6 +39,7 @@
 
 /* MENU BAR */
 .menu-bar{
+    width: 100%;
     background: rgb(0,100,0);
     text-align: center;
 }
@@ -95,6 +96,11 @@
     display: block;
     margin: -40px 0px 0px 110px;
     background: rgb(0,100,0);
+}
+
+/* Background Image */
+.background{
+    background-size: cover;
 }
 
 /* IMAGE SLIDER */
