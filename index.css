@@ -9,9 +9,9 @@
 
 /* WEB DESIGN */
 .container{
-    margin-top: -40px;
-    width: 100%;
-    height: 40vh;
+    margin-top: 0;
+    width: 100vw;
+    height: 20vh;
     position: relative;
 }
 .container video{
@@ -34,7 +34,7 @@
     mix-blend-mode: multiply;
 }
 .text-box h1{
-    font-size: 150px;
+    font-size: 75px;
 }
 
 /* MENU BAR */
