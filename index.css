@@ -10,8 +10,8 @@
 /* WEB DESIGN */
 .container{
     margin-top: 0;
-    width: 100vw;
-    height: 20vh;
+    width: 100%;
+    height: 143px;
     position: relative;
 }
 .container video{
