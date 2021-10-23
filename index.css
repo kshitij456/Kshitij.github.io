@@ -10,7 +10,7 @@
 /* WEB DESIGN */
 .container{
     margin-top: -40px;
-    width: 100%;
+    width: 150%;
     height: 40vh;
     position: relative;
 }
@@ -39,7 +39,7 @@
 
 /* MENU BAR */
 .menu-bar{
-    width: 100%;
+    width: 150%;
     background: rgb(0,100,0);
     text-align: center;
 }
@@ -49,7 +49,7 @@
     color: #fff;
 }
 .menu-bar ul li{
-    width: 160px;
+    width: 240px;
     margin: 15px;
     padding: 15px;
 }
@@ -75,7 +75,7 @@
     margin: 10px;
 }
 .menu-bar ul li:hover .sub-menu-1 ul li{
-    width: 110px;
+    width: 190px;
     padding: 10px;
     border-bottom: 1px dotted #fff;
     background: transparent;
