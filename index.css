@@ -10,7 +10,7 @@
 /* WEB DESIGN */
 .container{
     margin-top: -40px;
-    width: 100%;
+    width: 200%;
     height: 40vh;
     position: relative;
 }
@@ -39,7 +39,7 @@
 
 /* MENU BAR */
 .menu-bar{
-    width: 100%;
+    width: 200%;
     background: rgb(0,100,0);
     text-align: center;
 }
@@ -112,7 +112,7 @@
     display: flex;
     text-align: center;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
     background: #23E3C9;
 }
 .slides{
@@ -135,6 +135,7 @@
     position: absolute;
     width: 800px;
     margin-top: -40px;
+    margin-bottom: 20px;
     display: flex;
     justify-content: center;
 }
