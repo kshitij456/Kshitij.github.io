@@ -10,7 +10,7 @@
 /* WEB DESIGN */
 .container{
     margin-top: -40px;
-    width: 150%;
+    width: 120%;
     height: 40vh;
     position: relative;
 }
@@ -39,7 +39,7 @@
 
 /* MENU BAR */
 .menu-bar{
-    width: 150%;
+    width: 120%;
     background: rgb(0,100,0);
     text-align: center;
 }
