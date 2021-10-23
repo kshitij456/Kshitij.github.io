@@ -11,7 +11,7 @@
 .container{
     margin-top: -40px;
     width: 150%;
-    height: 290px;
+    height: 310px;
     position: relative;
 }
 .container video{
@@ -49,7 +49,7 @@
     color: #fff;
 }
 .menu-bar ul li{
-    width: 140px;
+    width: 150px;
     margin: 15px;
     padding: 15px;
 }
@@ -75,7 +75,7 @@
     margin: 10px;
 }
 .menu-bar ul li:hover .sub-menu-1 ul li{
-    width: 90px;
+    width: 100px;
     padding: 10px;
     border-bottom: 1px dotted #fff;
     background: transparent;
