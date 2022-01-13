@@ -22,6 +22,9 @@ html{
     html{
         font-size: 45%;
     }
+    .container, .menu-bar, .background img{
+        width: 150%;
+    }
 }
 
 /* WEB DESIGN */
