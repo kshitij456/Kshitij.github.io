@@ -22,9 +22,14 @@ html{
     html{
         font-size: 45%;
     }
-
     .container, .menu-bar, .background img{
         width: 200%;
+    }
+    .container-1{
+        margin-left: 47%;
+    }
+    .slider{
+        margin-left: 33%;
     }
 }
 
