@@ -22,15 +22,16 @@ html{
     html{
         font-size: 45%;
     }
-    .container, .menu-bar, .background img{
-        width: 200%;
+    nav{
+        width: 215%;
+        font-size: 1.6rem;
     }
-    .container-1{
-        margin-left: 47%;
+    html .main-content-1{
+        margin-left: 35%;
     }
-    .slider{
-        margin-left: 33%;
-    }
+    html .main-content-2{
+        transform: translateX(60%);
+    }   
 }
 
 /* WEB DESIGN */
