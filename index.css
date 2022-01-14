@@ -24,10 +24,9 @@ html{
     }
     nav{
         width: 290%;
-        font-size: 1.6rem;
     }
     html .main-content-1{
-        margin-left: 90%;
+        margin-left: 80%;
     }
     html .main-content-2{
         transform: translateX(109%);
