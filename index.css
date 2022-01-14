@@ -23,14 +23,14 @@ html{
         font-size: 45%;
     }
     nav{
-        width: 215%;
+        width: 315%;
         font-size: 1.6rem;
     }
     html .main-content-1{
-        margin-left: 35%;
+        margin-left: 100%;
     }
     html .main-content-2{
-        transform: translateX(60%);
+        transform: translateX(109%);
     }   
 }
 
