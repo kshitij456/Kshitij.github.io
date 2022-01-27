@@ -23,7 +23,10 @@ html{
         font-size: 45%;
     }
     nav{
-        width: 320%;
+        width: 295%;
+    }
+    nav h1{
+        font-size: 13.5rem;
     }
     html .main-content-1{
         margin-left: 62%;
